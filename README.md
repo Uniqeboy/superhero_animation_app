@@ -1,5 +1,7 @@
 # Superhero Animation App
+## 📸 App Screenshot
 
+![App Screenshot](screenshots/screenshot.png)
 This Android app demonstrates animation using:
 
 - animate()
